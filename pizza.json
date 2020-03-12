@@ -6,7 +6,7 @@
 			"size": "Large",
 			"toppings": ["cheese", "peproni"],
 
-			"image": "pizza.jpg"
+			"image": "pizza-1.jpg"
 
 		},
 
@@ -15,14 +15,14 @@
 			"price": 10.95,
 			"size": "Large",
 			"toppings": ["cheese", "green olives"],
-			"image": "pizza.jpg"
+			"image": "pizza-2.jpg"
 		},
 		{
 			"name": "Hawain",
 			"price": 10.95,
 			"size": "Large",
 			"toppings": ["cheese", "ham"],
-			"image": "pizza.jpg"
+			"image": "pizza-3.jpg"
 		}
 	]
 }
