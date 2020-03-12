@@ -1,0 +1,28 @@
+{
+
+	"pizzaTypes": [{
+			"name": "Classic peproni",
+			"price": 10.95,
+			"size": "Large",
+			"toppings": ["cheese", "peproni"],
+
+			"image": "pizza.jpg"
+
+		},
+
+		{
+			"name": "Vegie Delight",
+			"price": 10.95,
+			"size": "Large",
+			"toppings": ["cheese", "green olives"],
+			"image": "pizza.jpg"
+		},
+		{
+			"name": "Hawain",
+			"price": 10.95,
+			"size": "Large",
+			"toppings": ["cheese", "ham"],
+			"image": "pizza.jpg"
+		}
+	]
+}
