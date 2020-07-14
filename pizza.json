@@ -11,7 +11,7 @@
 		},
 
 		{
-			"name": "Vegie Delight",
+			"name": "BBq",
 			"price": 10.95,
 			"size": "Large",
 			"toppings": ["cheese", "green olives"],
@@ -24,6 +24,6 @@
 			"toppings": ["cheese", "ham"],
 			"image": "pizza-3.jpg"
 		}
-		
+
 	]
 }
