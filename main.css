@@ -1,0 +1,21 @@
+body{
+    background-color: lightblue;
+}
+.para{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding: 20px;
+  
+}
+
+#message{
+
+    padding: 20px;
+    background-color: aqua;
+}
+
+#btn{
+   
+    text-align: center;
+}
