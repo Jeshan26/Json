@@ -9,16 +9,22 @@
 		},
 
 		{
-			"title": "Painting",
-		        "description":"Beautiful painting of Background",
-			"price": 250,
-			"image": "https://jeshan26.github.io/Json/back.jpg"
+			"title": "Cricket Bat",
+		        "description":"Professional bat ",
+			"price": 500,
+			"image": "https://jeshan26.github.io/Json/bat.jpg"
 		},
 		{
-			"title": "Painting",
-		        "description":"Beautiful painting of Background",
-			"price": 250,
-			"image": "https://jeshan26.github.io/Json/back.jpg"
+			"title": "denim",
+		        "description":"Beautiful denim jacket",
+			"price": 80,
+			"image": "https://jeshan26.github.io/Json/denim.jpg"
+		},
+		{
+			"title": "Iphone-12",
+		        "description":"Latest model of iphone for you",
+			"price": 1700,
+			"image": "https://jeshan26.github.io/Json/iphone.jpg"
 		}
 	]
 }
