@@ -1,28 +1,24 @@
 {
 
-	"pizzaTypes": [{
-			"name": "Classic peproni",
-			"price": 10.95,
-			"size": "Large",
-			"toppings": ["cheese", "peproni"],
-
-			"image": "pizza-1.jpg"
+	"productList": [{
+			"title": "Painting",
+		        "description":"Beautiful painting of Background",
+			"price": 250,
+			"image": "https://jeshan26.github.io/Json/back.jpg"
 
 		},
 
 		{
-			"name": "BBq",
-			"price": 10.95,
-			"size": "Large",
-			"toppings": ["cheese", "green olives"],
-			"image": "pizza-2.jpg"
+			"title": "Painting",
+		        "description":"Beautiful painting of Background",
+			"price": 250,
+			"image": "https://jeshan26.github.io/Json/back.jpg"
 		},
 		{
-			"name": "Hawain",
-			"price": 10.95,
-			"size": "Large",
-			"toppings": ["cheese", "ham"],
-			"image": "pizza-3.jpg"
+			"title": "Painting",
+		        "description":"Beautiful painting of Background",
+			"price": 250,
+			"image": "https://jeshan26.github.io/Json/back.jpg"
 		},
 ""
 	]
